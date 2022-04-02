@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### Добро пожаловать!
 
-You can use the [editor on GitHub](https://github.com/dolpshy/freeminecraftgames/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Мы - компания взлома разных игр и просто програм!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# ВНИМАНИЕ, ЭТО НЕ ПИРАТСКИЙ СОФТ, ЭТО ПОЛНОСТЬЮ ОРИГИНАЛЬНЫЙ!
 
-### Markdown
+### Проэкты которые мы уже взломали:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Minecraft
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+  - Minecraft - это инди-игра в жанре песочницы с элементами выживания и открытым миром. По стилю, мир игры полностью состоит из блоков (ландшафт, предметы, мобы, игрок), и для текстурирования используются текстуры с низким разрешением.
+  - Вы спокойно можете скачать игру с **ЛИЦЕНЗИЕЙ** на 100 рублей, заплатив нашему боту.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Телеграм бот [ссылка]().
 
-### Jekyll Themes
+Чтобы скачать нажмите на [ссылку на скачивание]().
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dolpshy/freeminecraftgames/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### GTA V
 
-### Support or Contact
+```
+  **ЕЩЕ НЕ ВЗЛОМАНО**
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Еще много игр в планах, ждите!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ne naebalovo 2017-2022
